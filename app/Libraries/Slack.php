@@ -4,7 +4,7 @@ namespace App\Libraries;
 
 class Slack
 {
-    private $web_hook_url = 'https://hooks.slack.com/services/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';
+    private $web_hook_url = '';
 
     private $client;
 
